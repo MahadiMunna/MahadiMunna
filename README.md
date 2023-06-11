@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahadi Hasan Munna</h1>
-<h3 align="center">A passionate frontend/fullstack/MERN web developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend/fullstack/MERN web developer and programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadimunna&label=Profile%20views&color=0e75b6&style=flat" alt="mahadimunna" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mahadi_munna_" target="blank"><img src="https://img.shields.io/twitter/follow/mahadi_munna_?logo=twitter&style=for-the-badge" alt="mahadi_munna_" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://mahadi-hasan-munna.web.app/](https://mahadi-hasan-munna.web.app/)
 
