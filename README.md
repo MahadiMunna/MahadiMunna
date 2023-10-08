@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/mahadi-hasan-munna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahadi-hasan-munna" height="30" width="40" /></a>
 <a href="https://fb.com/mahedi.munna.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahedi.munna.77" height="30" width="40" /></a>
 <a href="https://instagram.com/_mahedi_munna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mahedi_munna_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mahadi_munna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahadi_munna" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mahadi_munna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahadi_munna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
