@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahadi_munna_" target="blank"><img src="https://img.shields.io/twitter/follow/mahadi_munna_?logo=twitter&style=for-the-badge" alt="mahadi_munna_" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://mahadi-hasan-munna.web.app/](https://mahadi-hasan-munna.web.app/)
 
