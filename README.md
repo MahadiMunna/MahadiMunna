@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadi Hasan Munna</h1>
-<h3 align="center">A passionate frontend/fullstack/MERN web developer and programmer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend/Python-Django/MERN stack/Full stack web developer and programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadimunna&label=Profile%20views&color=0e75b6&style=flat" alt="mahadimunna" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mahadi-hasan-munna.web.app/](https://mahadi-hasan-munna.web.app/)
 
-- 💬 Ask me about **javascript, react and node.js**
+- 💬 Ask me about **python, django, javascript, react and node.js**
 
 - 📫 Contact me **mahadimunna.official@gmail.com**
 
