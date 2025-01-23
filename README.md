@@ -13,7 +13,7 @@
 
 - 📫 Contact me **mahadimunna.official@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_EoLGb9lYmn-ii8o5-gXZBKGWTIYh_Fi/view?usp=sharing](https://drive.google.com/file/d/1_EoLGb9lYmn-ii8o5-gXZBKGWTIYh_Fi/view?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1ElXi-DyHe_tPLHzGARGQyHLht1KLM-Bb/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
