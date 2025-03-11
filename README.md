@@ -36,4 +36,4 @@
   <img src="https://streak-stats.demolab.com?user=MahadiMunna&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadimunna&" height="220" alt="mahadimunna" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadimunna&" alt="mahadimunna" /></p>
