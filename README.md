@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahadi Hasan Munna</h1>
-<h3 align="center">A passionate Frontend/Python-Django/MERN stack/Full stack web developer and programmer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer and programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadimunna&label=Profile%20views&color=0e75b6&style=flat" alt="mahadimunna" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mahadi_munna_" target="blank"><img src="https://img.shields.io/twitter/follow/mahadi_munna_?logo=twitter&style=for-the-badge" alt="mahadi_munna_" /></a> </p>
 
 - 🌱 I’m currently learning **Devops**
 
@@ -36,4 +34,4 @@
   <img src="https://streak-stats.demolab.com?user=MahadiMunna&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadimunna&" alt="mahadimunna" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadimunna&" height="220" alt="mahadimunna" /></p>
