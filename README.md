@@ -1,7 +1,8 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2373990/extras/SHADOWARMY.gif?t=1733119805"  />
+  <img height="150" src="![image](https://github.com/user-attachments/assets/9422fdb2-0f91-42f9-9a82-2f30085eb333)
+"  />
 </div>
 
 ###
