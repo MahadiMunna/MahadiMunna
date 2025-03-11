@@ -44,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MahadiMunna&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="220"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=MahadiMunna&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" height="220"  />
 </div>
 
