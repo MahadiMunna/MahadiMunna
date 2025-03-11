@@ -1,8 +1,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="![image](https://github.com/MahadiMunna/MahadiMunna/blob/cba64e223da36528ea91dc05ac287b04e5fadfa0/pixel-coding.gif)
-"  />
+  <img height="150" src="https://github.com/MahadiMunna/MahadiMunna/blob/cba64e223da36528ea91dc05ac287b04e5fadfa0/pixel-coding.gif"  />
 </div>
 
 ###
