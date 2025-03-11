@@ -30,13 +30,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahadiMunna&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahadiMunna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&hide_border=true" height="220"  />
   <img src="https://github-contributor-stats.vercel.app/api?username=MahadiMunna&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" height="220"  />
 </div>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MahadiMunna&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" height="220"  />
-</div>
 
 
