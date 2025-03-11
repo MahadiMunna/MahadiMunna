@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2373990/extras/SHADOWARMY.gif?t=1733119805"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Mahadi Hasan Munna</h1>
 <h3 align="center">A passionate Software Engineer and programmer from Bangladesh</h3>
 
