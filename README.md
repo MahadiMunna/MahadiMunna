@@ -44,11 +44,8 @@
 </div>
 
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img src="https://github-contributor-stats.vercel.app/api?username=MahadiMunna&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="220"  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" height="220"  />
 </div>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MahadiMunna&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
