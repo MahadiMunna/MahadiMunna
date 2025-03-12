@@ -12,15 +12,15 @@
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=mahadi_munna_)
 
-- 🌱 I’m currently learning **Devops**
+🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://mahadi-hasan-munna.web.app/](https://mahadi-hasan-munna.web.app/)
+👨‍💻 All of my projects are available at [https://mahadi-hasan-munna.web.app/](https://mahadi-hasan-munna.web.app/)
 
-- 💬 Ask me about **python, django, javascript, react and node.js**
+💬 Ask me about **python, django, javascript, react and node.js**
 
-- 📫 Contact me **mahadimunna.official@gmail.com**
+📫 Contact me **mahadimunna.official@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1ElXi-DyHe_tPLHzGARGQyHLht1KLM-Bb/view?usp=sharing)**
+📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1ElXi-DyHe_tPLHzGARGQyHLht1KLM-Bb/view?usp=sharing)**
 
 
 ## 🌐 Socials:
