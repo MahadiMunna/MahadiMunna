@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadimunna&label=Profile%20views&color=0e75b6&style=flat" alt="mahadimunna" /> </p>
 <a href="https://codeforces.com/profile/mahadi_munna_">
-   <img src="https://raw.githubusercontent.com/MahadiMunna/ct-stats/main/output/max_rating.svg" />
+   <img src="https://raw.githubusercontent.com/mahadi_munna_/ct-stats/main/output/max_rating.svg" />
 </a>
 
 - 🌱 I’m currently learning **Devops**
