@@ -12,7 +12,7 @@
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=mahadi_munna_)
 
-🌱 I’m currently learning **Devops**
+🌱 I’m currently learning **Java**
 
 👨‍💻 All of my projects are available at [https://mahadi-hasan-munna.web.app/](https://mahadi-hasan-munna.web.app/)
 
